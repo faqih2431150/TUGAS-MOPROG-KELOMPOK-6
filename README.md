@@ -25,5 +25,5 @@ flutter run
 State dikelola dengan `setState` pada `StatefulWidget`.
 
 ## Anggota
-- Nama 1 (NIM)
-- Nama 2 (NIM)
+- HAFIZHUL FAQIH (202431150)
+- ARMANDO SIANIPAR (202431144)
